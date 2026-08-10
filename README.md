@@ -4,8 +4,8 @@
 |-------|--------|
 | ✅ Dataset Collection | Complete |
 | ✅ Data Understanding | Complete |
-| ⏳ Exploratory Data Analysis | In Progress |
-| ⬜ Data Cleaning |
+| ✅ Exploratory Data Analysis | Complete |
+| ⏳ Data Cleaning | In Progress|
 | ⬜ Feature Engineering |
 | ⬜ Model Training |
 | ⬜ Hyperparameter Tuning |
